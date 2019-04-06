@@ -15,5 +15,5 @@ class TestTest(unittest.TestCase):
     def test_div(self):
         self.assertEqual(test.divide(3,3), 1.0)
 
-if __name__ == "__main__":
-    unittest.main()
+# if __name__ == "__main__":
+#    unittest.main()
